@@ -209,6 +209,7 @@
         <module>ssh</module>
         <module>stax</module>
         <module>stringtemplate</module>
+        <module>swift</module>
         <module>syndication</module>
         <module>syslog</module>
         <module>tarfile</module>
